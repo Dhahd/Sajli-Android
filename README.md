@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://dhahd.com/sajli/ar/images/sajli-logo.svg" alt="Sajli Logo" width="120"/>
+<img src="icon.png" alt="Sajli Logo" width="120"/>
 
 ### تطبيق إدارة العملاء والمبيعات
 
